@@ -1,0 +1,8 @@
+input {
+  width: 100%;
+}
+
+.btn {
+  min-width: 80px;
+  margin-bottom: 10px;
+}
